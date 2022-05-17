@@ -1,0 +1,9 @@
+How do you pass a value from parent to child? What about from child to parent?
+parent -> child = props
+phild -> parent =  funtion props
+
+What is prop-drilling
+Sending props through many components
+
+Can you modify props?
+No, they are read-only
