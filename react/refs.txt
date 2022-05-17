@@ -1,0 +1,9 @@
+What is the difference between refs and state variables?
+Both are objects that can contain values, state variables can trigger a re-render, refs don't (crossrender)
+
+When are the best times to use refs?
+- managing focus or madia
+- triggering animations
+- integrating with DOM libraries
+
+What is the proper way to update a ref in a function component?
