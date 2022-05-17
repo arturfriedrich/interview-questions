@@ -1,0 +1,5 @@
+What is the difference between the Contect API and prop drilling?
+Yu define values at the top level and then every component gets it (Context API)
+
+When should't you use the Context API?
+Don't overuse
