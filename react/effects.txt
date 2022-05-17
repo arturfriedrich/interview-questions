@@ -1,0 +1,11 @@
+What parameters does useEffect take in?
+1, function
+2, dependency array
+
+When does the useEffect function run?
+- [] -> runs in mounting
+- [variable] -> runs on mount and when variable changes
+- no array -> runs on mount and on every state change
+
+What is the useEffect function's return value?
+Cleanup function
