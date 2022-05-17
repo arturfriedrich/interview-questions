@@ -7,3 +7,4 @@ When are the best times to use refs?
 - integrating with DOM libraries
 
 What is the proper way to update a ref in a function component?
+use and effect
