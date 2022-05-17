@@ -1,0 +1,5 @@
+What is the difference between the Virtual DOM and the "real" DOM?
+React updates the Virtual DOM instead of the "real" DOM, and then syncs with the "real" DOM with "react-dom". Looks at the differences and just updates that individual part of the "real" DOM.
+
+Is the Virtual DOM the same as the Shadow DOM?
+No, that's a separate browser-specific technology.
