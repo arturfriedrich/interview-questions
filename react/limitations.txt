@@ -1,0 +1,5 @@
+React
+- is a library, not a framework
+- it is large
+- being owned by Facebook
+- documentation
