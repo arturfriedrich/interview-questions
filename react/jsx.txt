@@ -1,0 +1,11 @@
+What is JSX?
+- Short for JavaScript XML
+- Write JavaScript with HTML-like template syntax (not HTML, not a srting)
+- Produces elements that represents objects
+
+What is the difference between an element and a component?
+- Element: created by JSX as an object
+- Component: function that returns an element
+
+Can you write React without JSX?
+Yes
