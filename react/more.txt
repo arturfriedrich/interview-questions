@@ -1,0 +1,14 @@
+What is a Fragment?
+A container to hold elements: <></>
+
+When should you use a class-based component versus a function component?
+Mainly use function components, but for error boundaries are class-based components better.
+
+What is a higher order component?
+Is a function that takes in a component and returns a new component
+
+What is a portal?
+Is a way to render way to render a child into the DOM node, when it is outside the DOM tree
+
+What are uncontrolled components? What are controlled components?
+Uncontrolled: user manipulated components, controlled: react controlled components
