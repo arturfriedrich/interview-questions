@@ -1,0 +1,14 @@
+What is the difference between props and state?
+Props gets passed to components, state is managed within a component.
+
+What is the difference between state in a class component versus state in a function component?
+class component: it is attached to a class object
+function component: it is recalled over time (when state changes)
+
+What is the component lifecyle?
+- mounting (render, componentDidMount)
+- updating (render, componentDidUpdate)
+- unmounting (render, componentWillUnmount)
+
+How do you update the lifecycle in function component?
+useEffect
